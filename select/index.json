@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Cö shu Nie – SAKURA BURST (Official Video) / TVアニメ『15周年 コードギアス 反逆のルルーシュ』第2クールEDテーマ",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2025-12-01T15:43:08.978026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cö shu Nie – SAKURA BURST (Official Video) / TVアニメ『15周年 コードギアス 反逆のルルーシュ』第2クールEDテーマ",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_Cö_shu_Nie_–_SAKURA_BURST_(Official_Video)___TVアニメ『15周年_コードギアス_反逆のルルーシュ』第2クールEDテ_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cö shu Nie-asphyxia",
+      "artist": "Cö shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_Cö_shu_Nie-asphyxia_Cö_shu_Nie.txt"
+    }
+  ]
+}
